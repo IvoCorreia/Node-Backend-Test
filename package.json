@@ -1,7 +1,6 @@
 {
-  "name": "backend",
+  "name": "start",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index",
@@ -9,12 +8,21 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "ivo",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvoCorreia/Node-Backend-Test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IvoCorreia/Node-Backend-Test/issues"
+  },
+  "homepage": "https://github.com/IvoCorreia/Node-Backend-Test#readme",
+  "description": ""
 }

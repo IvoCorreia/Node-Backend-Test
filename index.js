@@ -42,5 +42,12 @@ const item = req.body;
 
 });
 
+app.put("/herois/:id", function(req, res){
+
+res.send("atualiza heroi");
+
+
+});
+
 
 app.listen(3000)
